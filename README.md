@@ -1,2 +1,2 @@
 # MSBM-Quarto-Project
-This is data i am inputting 
+This is data I am inputting 
